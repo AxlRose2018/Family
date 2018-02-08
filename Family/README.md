@@ -9,7 +9,4 @@ and improve all the time
 
 thank you for contributing 
 
-Have a nice day !!!
-
-ps. I have Added a new branch named Developers in order to keep improving and developing without compromising or corrupting the main code.
-
+Have a nice day !!! 
